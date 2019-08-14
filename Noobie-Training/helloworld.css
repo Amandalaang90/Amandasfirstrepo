@@ -1,0 +1,25 @@
+.icon-angry {
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.icon-sad {
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.icon-happy {
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.icon-angry {
+    opacity: 0%;
+}
